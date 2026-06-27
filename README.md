@@ -1,2 +1,3 @@
-Hello
-this is an advanced crop monitoring system model
+# Crop Monitoring System
+
+This is an advanced crop monitoring system model.
